@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+wordanalysis/process/__init__.py
+wordanalysis/process/process.py
+wordanalysis/raw_df/__init__.py
+wordanalysis/raw_df/raw_df.py
+wordanalysis/raw_txt/__init__.py
+wordanalysis/raw_txt/raw_txt.py
+wordanalysis/wordanalysis.egg-info/PKG-INFO
+wordanalysis/wordanalysis.egg-info/SOURCES.txt
+wordanalysis/wordanalysis.egg-info/dependency_links.txt
+wordanalysis/wordanalysis.egg-info/top_level.txt
